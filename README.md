@@ -6,6 +6,8 @@ Das Ziel ist es Straftaten mithilfe von Maschinellem Lernen (KNN, Random Forest,
 
 - Kopieren Sie alle Dateien in einen Ordner.
 
+- Entpacken Sie die Datei "Datensätze"
+
 - Führen sie alle Zellen von "2b_sf_datapreproc.ipynb" aus, um die Daten aufzubereiten
 
 - In der Datei mit dem Namen "3_sf_models.ipynb" können sie Algorithmen aus dem Bereich des Maschinellen Lernens finden (exkl. Neuronales Netz)
