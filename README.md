@@ -2,6 +2,8 @@
 
 Das Ziel ist es Straftaten mithilfe von Maschinellem Lernen (KNN, Random Forest, Neural Networks) voraus zu sagen.
 
+Eine Kurzdokumentation ist in der Datei "Crime SF CRISP-DM.pdf" zu finden.
+
 ## Getting Started
 
 - Kopieren Sie alle Dateien in einen Ordner.
